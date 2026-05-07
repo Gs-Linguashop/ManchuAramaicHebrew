@@ -110,13 +110,13 @@
 
 雍正庚戌孟春之朔日，作忠堂主人程明远题。
 
-## Cing Wen Ki Meng Bithe: Sioi i Gisun （转写）
+### Cing Wen Ki Meng Bithe: Sioi i Gisun （转写）
 
 Cing Wen Ki Meng Bithe serengge, mini gucu Šeo Ping siyan šeng ni fisembume arafi, booi tacikū de tacibuhangge. Ede sume sindaha Nikan gisun, udu umesi muwa cinggiya bicibe, teni tacire urse be neileme ulhiyen i ibeburede micihiyan ci šumin de dosinara, goro yabure de hanci ci deribure gūnin tebuhebi. Tere anggala tuktan yarhūdame tacibure de, enteke getuken iletu bithe waka oci, inu sara ulhire de mangga ombi, ere yargiyan i ajigan tacire ursei sucungga doobure ada, duka dosimbure doko jugūn kai. Bi kemuni siyan šeng ni erebe jafafi ajigan urse be tacibuha be tuwaci, majige sureken ulhicungga urse oci, tacime biyalame baiburakū, uthai hūlame arame mutembi sere anggala, jilgan mudan getuken bolgo, hergen i jijun tob tondo ojorakūngge akū, yala emgeri tacifi calabure jecuhunjere de isinarakū ombi, fulehe be tob, sekiyen be bolgo obure gūnin ambula bisire dade, gemu gung tusa be hūdun ojoro ferguwecuke babi. Bi aifini jise be gaifi folobufi, teniken tacire urse de durun tuwakū obuki seme baihade, siyan šeng ohakū henduhengge, ere bithe serengge mini booi juse be tacihiyame, faksikan i gamame arahangge, suhengge yooni buya calgari gisun muwa albatu bime fiyan akūngge, folobuci basucun akū semeo sehe bihe. Bi dahūn dahūn i hūsutuleme baire jakade, teni bahafi acabume folobuha, ede ajigan tacire urse de, ainci ambula niyececun tusa ojoro ba bidere.
 
 Hūwaliyasun Tob i jakūci aniya niyengniyeri sain inenggi, Dzo Jung Tang ni booi ejen Ceng Ming Yuwan araha.
 
-# שיע וּאן כי מּאע ביתה: סיוי גיסון
+### שיע וּאן כי מּאע ביתה: סיוי גיסון (גולהון הרגן)
 
 שיע ואן כי מאע ביתה סרעג, מיני גושו שּׁאו פ׳יע סיאן שׁעני פיסמבום ארפי, בווי טשיקוד טשיבוחעג. אד סום סינדח ניקן גיסון, ודו ומסי מוא שיעגיא בישיב, תני טשיר ורסב ניילם ולהיאני יבּבורד מישיהיאנשי שׁומינד דוסינר, עור יאבורד חנשישי דּריבור עונין תבוהבי. תר אעעל תוכטן יארחודם טשיבורד, אנתך גתוכן ילּתו ביתה ואק ושי, ינו צר ולהירד מעע ומבי, אר יארגיאני אזיען טשיר ורסיי סושועע דוובור אד, דוּק דוסימבור דוק זועון קיי. בי כמוני סיאן שׁעני ארב אפפי אזיען ורסב טשיבוחב תואחשי, מזיג סורכן ולהישועג ורס ושי, טשים ביאלם בייבורקו, חולם ארם מותמבי סר אעעל, זילען מודן גתוכן בולע, הרגני זיזון טוב טונד וזרקועג אקו, יאל אמגרי טשיפי שלבור זּשוהונזרד יסינרקו ומבי, פולהב טוב, סכיאנב בולע ובור עונין אמבול ביסיר דד, גמו גוע תוצב חודון וזר פּרגואשוך בבי. בי איפיני זיסב עייפי פולבופי, תניכן טשיר ורסד דורון תואקו ובוכי סם בייחד, סיאן שׁע וחקו הנדוהעג, אר ביתה סרעג מיני בווי זוסב טשיהיאם, פקסיקני עמם ארחעג, סוהעג יווני בויא שלערי גיסון מוא אלבתו בים פיאן אקועג, פולבושי בסושון אקו סמוו סה ביה. בי דחון דחוני חוסותולם בייר זקד, תני בחפי אשבום פולבוח, אד אזיען טשיר ורסד, אינשי אמבול ניּאששון תוץ וזר ב בידר.
 
