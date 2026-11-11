@@ -56,12 +56,12 @@
 | 字母 | 名称 | 名称转写 | 穆麟德转写 | 音素 | 拼音 |
 | --- | --- | --- | --- | --- | --- |
 | ג׳ | נִיקַן גִימִל | nikan gimil | g' | k | g |
+| ד׳ | נִיקַן דִ׳י | nikan dzy | dz | ts | z |
 | ה׳ | נִיקַן הֶי | nikan hei | h' | x | h |
-| ז׳ | נִיקַן זִ׳י | nikan dzy | dz | ts | z |
 | כ׳ ך׳ | נִיקַן כִף | nikan kif | k' | kʰ | k |
-| ס׳ | נִיקַן סִ׳י | nikan tsy | ts | tsʰ | c |
 | צ׳ ץ׳ | נִיקַן צָ׳דִי | nikan tsadi | ts | tsʰ | c |
-| ש׳ | נִיקַן שִ׳י | nikan žy | ž | ʐ | r |
+| שׁ׳ | נִיקַן שִׁ׳י | nikan žy | ž | ʐ | r |
+| ת׳ | נִיקַן תִ׳י | nikan tsy | ts | tsʰ | c |
 
 ## 元音
 
@@ -78,10 +78,13 @@
 此外，还有两个汉语元音
 | 元音 | 穆麟德转写 | 拼音 |
 | --- | --- | --- |
-| י׳ | y | i |
+| י | y | i |
 | יוּ | ioi | ü |
 
-* 元音י׳表示音节zi/ci/si/shi/zhi/chi/ri的元音，其geresh׳与前方辅音重复时不书写
+其中，元音י指的是汉语音节zhi/chi/shi/ri/zi/ci/si/的元音
+| 拼音 | zhi | chi | shi | ri | zi | ci | si |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 拼写 | ז׳י | ש׳י | שׁי | שׁ׳י | ד׳י | ת׳י | ס׳י |
 
 闭音节末的辅音（即其后没有元音时），可以用下标schwaאְ表示。
 
@@ -94,11 +97,18 @@
 * 满语的元音i和u是中性元音，可以与其它元音混合出现在同一单词
 
 因此，我们采用以下元音拼写规则：
-* 元音u/ū后的字母ו，不论开闭音节，一律书写，如buda בוד、ahūn אחון
-* 单词首个音节中的o书写字母ו，其余音节中一般不书写，如onggolo ועעל
-* 复元音中i(iy)/u(uw)/ū(ūw)后、词末n后、半元音y/w后的a/e/o书写א/ו，如niyalma ניאלמ、bia ביא、sembio סמביו
-* 复元音ai/ei和音素组合ay/ey写作יי，oo/eo和aw/ew写作וו，元音a/e标记在其前方的辅音上；由字母א引导时则保留原本拼写
-* 专有名词、汉语转写时，所有元音用א/י/ו拼出，可以适当加元音标注
+* 元音u/ū一律书写为וּ，如buda בוד、ahūn אחון
+* 单词首次出现的主元音o书写为וֹ，其余音节中单元音o一般不书写，如onggolo ועעל、fonjimbi פונזימבי
+* 复元音ai/ei/oi/ia(iya)/ie(iye)/io(iyo)拼写为יי，复元音oo/eo/ūa(ūwa)/ua(uwa)/ue(uwe)拼写为וו
+	* 复元音oi和io(iyo)在单词首次出现主元音o时拼写为וי和יו
+	* 辅音א/ח/ט/ע/צ/ץ/ק后ai/ei不双写，拼作י；非首次出现的主元音o的辅音ח/ט/ע/צ/ץ/ק后oi拼作י
+	* 词尾与属格后缀י连接产生的ai/ei/oi不双写，写作י；词尾与疑问后缀ו连接产生的oo/eo不双写，写作ו
+	* 词尾ia(iya)/ie(iye)拼写为יא，词尾io(iyo)拼写为יו，词尾ūa(ūwa)/ua(uwa)/ue(uwe)拼写为וא
+* 元音间辅音y/w双写（不包括介音iy/uw/ūw，见复元音规则）
+	* 词尾ya/ye/yo/wa/we的א和ו拼出，词尾uya/uye拼作ויא
+* 专有名词、汉语转写、外来词和拟声词中，所有元音用א/י/ו直接拼出即音素与字母逐一对应（由满文转写造成的iy或ūw/uw视为介音音素，用一个י和ו拼出）
+
+例：我 bi בי，白 bai ביי，月亮 bia ביא，身体 beye בייא，富 bayan ביין
 
 ### 辅助符号Dagish דגישׁ
 
@@ -106,30 +116,81 @@
 
 Dagish点אּ被我们挪用标注带有e/u/ū的音节，用以区分带有a/o的音节。
 
-在含有e的音节中，dagish标注在e之前的辅音上，如niyengniyeri ניּעניּרי。
+在含有e的音节中，dagish标注在e之前的辅音上，如niyengniyeri נייּענייארי。
 
-在含有u/ū的音节中，dagish即是וּ旁边的点。如gūnin עוּנינ。
+在含有u/ū的音节中，dagish即是וּ旁边的点。如gūnin עוּנין。
 
 大部分dagish可以省略，不影响阅读。
 
-例：我 bi בי，白白 bai ביי，碑 bei בּיי，月亮 bia ביא，身体 beye בייא，富 bayan בייאן
+由于满语固有词的元音分步相对规律，一般我们习惯对前两个音节的主元音标记dagish，举例如下（表头T表示周围辅音能区分a/e/o对比i/u/ū的音节，F表示不能的音节）
+| 范式 | F-F | F-T | T-F | T-T |
+| --- | --- | --- | --- | --- |
+| a-a | yala יל | baita בייט | sara צר | saha צח |
+| e-e | beye בּייא | ehe אה | tere תר | hehe הה |
+| a-u | damu דמו | dabsun דבסון | sabu צבו | taktu טקתו |
+| e-u | emu אּמו | jeku זּכו | gemu גמו | teku תכו |
+| a-i | dari דרי | aisin איסין | hacin חשין | hasi חסי |
+| e-i | beri בּרי | emgi אּמגי | teni תני | senggi סעגי |
+| u-a | buda בוּד | duka דוּק | sunja סונז | tuktan תוכטן |
+| u-e | nure נורּ | muke מוך | suje סוזּ | suhe סוה |
+| o-o | doro דור | loho לוח | goro עור | hoton חוטן |
+| u-u | uju וזו | dursun דורסון | gurun גורון | hutu הותו |
+| o-i | morin מורין | dorgi דורגי | honin חונין | gosin עוסין |
+| u-i | ulin וּלין | usin וּסין | gubci גובשי | tugi תוגי |
+| i-a | bira ביר | ilha ילח | gida גיד | sisa סיץ |
+| i-e | ice ישּ | cibsen שיבסן | sile סילּ | bithe ביתה |
+| i-u | inu ינו | ninggun ניעגון | giru גירו | gisun גיסון |
+| i-i | jili זילי | fisin פיסין | sini סיני | sihin סיהין |
+
+* 第一个音节中的ū一般需要dagish标记
+* 固有词中其它位置，尤其是词缀和后缀（介词）中的元音，一般就不做标注区分了
 
 ## 样例文本
 
 ### 清文启蒙：序（汉语）
 
-清文启蒙一书，乃吾友寿平先生著述，以课家塾者也。其所注释汉语，虽甚浅近，然开蒙循序，由浅入深，行远自迩之寓意焉。况辅迪之初，非此晓畅之文，亦难领会，诚幼学之初筏，入门之捷径也。子尝目睹先生以此课蒙，而稍能颖悟者，学不匝月，即能书诵，且音韵笔画莫不明切端楷，一读不致错误，大有正本清源之义，更见功效捷速之妙。久欲请稿刊刻，以为初学津梁，而先生不许曰，此本庭训小子，设法而作，所注皆系俚言鄙语，粗俗不文，付之梨枣，不无以诒诮乎。子力请再三，始获校梓，其于初学之士，大有裨益云。
+清文启蒙一书，乃吾友寿平先生著述，以课家塾者也。
+
+其所注释汉语，虽甚浅近，然开蒙循序，由浅入深，行远自迩之寓意焉。
+
+况辅迪之初，非此晓畅之文，亦难领会，诚幼学之初筏，入门之捷径也。
+
+子尝目睹先生以此课蒙，而稍能颖悟者，学不匝月，即能书诵，且音韵笔画莫不明切端楷，一读不致错误，大有正本清源之义，更见功效捷速之妙。
+
+久欲请稿刊刻，以为初学津梁，而先生不许曰，此本庭训小子，设法而作，所注皆系俚言鄙语，粗俗不文，付之梨枣，不无以诒诮乎。
+
+子力请再三，始获校梓，其于初学之士，大有裨益云。
 
 雍正庚戌孟春之朔日，作忠堂主人程明远题。
 
 ### Cing Wen Ki Meng Bithe: Sioi i Gisun （转写）
 
-Cing Wen Ki Meng Bithe serengge, mini gucu Šeo Ping siyan šeng ni fisembume arafi, booi tacikū de tacibuhangge. Ede sume sindaha Nikan gisun, udu umesi muwa cinggiya bicibe, teni tacire urse be neileme ulhiyen i ibeburede micihiyan ci šumin de dosinara, goro yabure de hanci ci deribure gūnin tebuhebi. Tere anggala tuktan yarhūdame tacibure de, enteke getuken iletu bithe waka oci, inu sara ulhire de mangga ombi, ere yargiyan i ajigan tacire ursei sucungga doobure ada, duka dosimbure doko jugūn kai. Bi kemuni siyan šeng ni erebe jafafi ajigan urse be tacibuha be tuwaci, majige sureken ulhicungga urse oci, tacime biyalame baiburakū, uthai hūlame arame mutembi sere anggala, jilgan mudan getuken bolgo, hergen i jijun tob tondo ojorakūngge akū, yala emgeri tacifi calabure jecuhunjere de isinarakū ombi, fulehe be tob, sekiyen be bolgo obure gūnin ambula bisire dade, gemu gung tusa be hūdun ojoro ferguwecuke babi. Bi aifini jise be gaifi folobufi, teniken tacire urse de durun tuwakū obuki seme baihade, siyan šeng ohakū henduhengge, ere bithe serengge mini booi juse be tacihiyame, faksikan i gamame arahangge, suhengge yooni buya calgari gisun muwa albatu bime fiyan akūngge, folobuci basucun akū semeo sehe bihe. Bi dahūn dahūn i hūsutuleme baire jakade, teni bahafi acabume folobuha, ede ajigan tacire urse de, ainci ambula niyececun tusa ojoro ba bidere.
+Cing Wen Ki Meng Bithe serengge, mini gucu Šeo Ping siyan šeng ni fisembume arafi, booi tacikū de tacibuhangge.
 
-Hūwaliyasun Tob i jakūci aniya niyengniyeri sain inenggi, Dzo Jung Tang ni booi ejen Ceng Ming Yuwan araha.
+Ede sume sindaha Nikan gisun, udu umesi muwa cinggiya bicibe, teni tacire urse be neileme ulhiyen i ibeburede micihiyan ci šumin de dosinara, goro yabure de hanci ci deribure gūnin tebuhebi.
+
+Tere anggala tuktan yarhūdame tacibure de, enteke getuken iletu bithe waka oci, inu sara ulhire de mangga ombi, ere yargiyan i ajigan tacire ursei sucungga doobure ada, duka dosimbure doko jugūn kai.
+
+Bi kemuni siyan šeng ni erebe jafafi ajigan urse be tacibuha be tuwaci, majige sureken ulhicungga urse oci, tacime biyalame baiburakū, uthai hūlame arame mutembi sere anggala, jilgan mudan getuken bolgo, hergen i jijun tob tondo ojorakūngge akū, yala emgeri tacifi calabure jecuhunjere de isinarakū ombi, fulehe be tob, sekiyen be bolgo obure gūnin ambula bisire dade, gemu gung tusa be hūdun ojoro ferguwecuke babi.
+
+Bi aifini jise be gaifi folobufi, teniken tacire urse de durun tuwakū obuki seme baihade, siyan šeng ohakū henduhengge, ere bithe serengge mini booi juse be tacihiyame, faksikan i gamame arahangge, suhengge yooni buya calgari gisun muwa albatu bime fiyan akūngge, folobuci basucun akū semeo sehe bihe.
+
+Bi dahūn dahūn i hūsutuleme baire jakade, teni bahafi acabume folobuha, ede ajigan tacire urse de, ainci ambula niyececun tusa ojoro ba bidere.
+
+Hūwaliyasun Tob i jakūci aniya niyengniyeri sain inenggi, Dzo Jung Tang ni booi ejen Cheng Ming Yuwan araha.
 
 ### שיע וּאן כי מּאע ביתה: סיוי גיסון (גולהון הרגן)
 
-שיע ואן כי מאע ביתה סרעג, מיני גושו שּׁאו פ׳יע סיאן שׁעני פיסמבום ארפי, בווי טשיקוד טשיבוחעג. אד סום סינדח ניקן גיסון, ודו ומסי מוא שיעגיא בישיב, תני טשיר ורסב ניילם ולהיאני יבּבורד מישיהיאנשי שׁומינד דוסינר, עור יאבורד חנשישי דּריבור עונין תבוהבי. תר אעעל תוכטן יארחודם טשיבורד, אנתך גתוכן ילּתו ביתה ואק ושי, ינו צר ולהירד מעע ומבי, אר יארגיאני אזיען טשיר ורסיי סושועע דוובור אד, דוּק דוסימבור דוק זועון קיי. בי כמוני סיאן שׁעני ארב אפפי אזיען ורסב טשיבוחב תואחשי, מזיג סורכן ולהישועג ורס ושי, טשים ביאלם בייבורקו, חולם ארם מותמבי סר אעעל, זילען מודן גתוכן בולע, הרגני זיזון טוב טונד וזרקועג אקו, יאל אמגרי טשיפי שלבור זּשוהונזרד יסינרקו ומבי, פולהב טוב, סכיאנב בולע ובור עונין אמבול ביסיר דד, גמו גוע תוצב חודון וזר פּרגואשוך בבי. בי איפיני זיסב עייפי פולבופי, תניכן טשיר ורסד דורון תואקו ובוכי סם בייחד, סיאן שׁע וחקו הנדוהעג, אר ביתה סרעג מיני בווי זוסב טשיהיאם, פקסיקני עמם ארחעג, סוהעג יווני בויא שלערי גיסון מוא אלבתו בים פיאן אקועג, פולבושי בסושון אקו סמוו סה ביה. בי דחון דחוני חוסותולם בייר זקד, תני בחפי אשבום פולבוח, אד אזיען טשיר ורסד, אינשי אמבול ניּאששון תוץ וזר ב בידר.
+שיע ואן כי מאע ביתה סרעג, מיני גושו שּׁאו פ׳יע סיין שעני פיסמבום ארפי, בווי טשיקוד טשיבוחעג.
 
-חואליאסון טובי זקון אניא ניאעניארי ציין ינעגי, ז׳וֹ זוע טאעני בווי אזן שּאע מיע יואן ארח.
+אד סום סינדח ניקן גיסון, ודו ומסי מוא שיעגיא בישיב, תני טשיר ורסב ניילם ולהייני יבבורד מישיהיינשי שׁומינד דוסינר, עור יבורד חנשישי דריבור עונין תבוהבי.
+
+תר אעעל תוכטן ירחודם טשיבורד, אנתך גתוכן ילתו ביתה וק ושי, ינו צר ולהירד מעע ומבי, אר ירגייני אזיען טשיר ורסי סושועע דוובור אד, דוק דוסימבור דוק זועון קי.
+
+בי כמוני סיין שעני ארב זפפי אזיען ורסב טשיבוחב תוושי, מזיג סורכן ולהישועג ורס ושי, טשים ביילם בייבורקו, ותחי חולם ארם מותמבי סר אעעל, זילען מודן גתוכן בולע, הרגני זיזון טוב טונד וזרקועג אקו, יל אמגרי טשיפי שלבור זשוהונזרד יסינרקו ומבי, פולהב טוב, סכיינב בולע ובור עונין אמבול ביסיר דד, גמו גוע תוצב חודון וזר פּרגוושוך בבי.
+
+בי איפיני זיסב עיפי פולבופי, תניכן טשיר ורסד דורון תווקו ובוכי סם בייחד, סיין שע וחקו הנדוהעג, אר ביתה סרעג מיני בווי זוסב טשיהיים, פקסיקני עמם ארחעג, סוהעג יווני בויא שלערי גיסון מוא אלבתו בים פיין אקועג, פולבושי בסושון אקו סמו סה ביה.
+
+בי דחון דחוני חוסותולם בייר זקד, תני בחפי אשבום פולבוח, אד אזיען טשיר ורסד, אינשי אמבול נייששון תוץ וזר ב בידר.
+
+חוולייסון טובי זקושי אניא נייעניירי צין ינעגי, ד׳וו זוע טאעני בווי אזן שּאע מיע יואן ארח.
